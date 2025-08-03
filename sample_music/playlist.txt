@@ -1,0 +1,40 @@
+# Open Source Music Playlist
+
+🎵 Chill Out - Anitek
+   License: CC BY-SA 4.0
+   File: Anitek - Chill Out.mp3
+
+🎵 Funkorama - Kevin MacLeod
+   License: CC BY 3.0
+   File: Kevin MacLeod - Funkorama.mp3
+
+🎵 Pixel Peeker Polka - faster - Kevin MacLeod
+   License: CC BY 3.0
+   File: Kevin MacLeod - Pixel Peeker Polka.mp3
+
+🎵 Wallpaper - Kevin MacLeod
+   License: CC BY 3.0
+   File: Kevin MacLeod - Wallpaper.mp3
+
+🎵 Perspectives - Kevin MacLeod
+   License: CC BY 3.0
+   File: Kevin MacLeod - Perspectives.mp3
+
+🎵 Deliberate Thought - Kevin MacLeod
+   License: CC BY 3.0
+   File: Kevin MacLeod - Deliberate Thought.mp3
+
+🎵 George Street Shuffle - Kevin MacLeod
+   License: CC BY 3.0
+   File: Kevin MacLeod - George Street Shuffle.mp3
+
+🎵 Monkeys Spinning Monkeys - Kevin MacLeod
+   License: CC BY 3.0
+   File: Kevin MacLeod - Monkeys Spinning Monkeys.mp3
+
+🎵 Tum Mile - Title Track
+   Artist: Emraan Hashmi, Soha Ali
+   Music: Pritam
+   Vocals: Neeraj Shridhar, Kumaar
+   File: Tum Mile Audio Song - Title TrackEmraan Hashmi,Soha AliPritamNeeraj ShridharKumaar.mp3
+
